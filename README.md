@@ -43,5 +43,5 @@ I'm a Junior Python Developer and a Computer Science student living in Poznań, 
 
 
 # 💬 Get in touch
-Email: filip.marciniak15@example.com
+Email: filip.marciniak15@gmail.com
 Feel free to reach out if you have any questions or if you'd like to connect!
