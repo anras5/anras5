@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Filip 
-I'm a Junior Python Developer and a Computer Science student living in Poznań, Poland. I'm passionate about working with data and interested in Data Science and Web Development. Check ouy my blog at https://anras5.github.io/
+I'm a Junior Python Developer and a Computer Science student living in Poznań, Poland. I'm passionate about working with data and interested in Data Science and Web Development.
 
 # 🔧 Technologies & Tools
 
@@ -41,6 +41,8 @@ I'm a Junior Python Developer and a Computer Science student living in Poznań, 
 ![graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+# ✍️ Blog
+Check out my blog at https://anras5.github.io/.
 
 # 💬 Get in touch
 Email: filip.marciniak15@gmail.com
