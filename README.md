@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Filip 
-I'm a Junior Python Developer and a Computer Science student living in Poznań, Poland. I'm passionate about working with data and interested in Data Science and Web Development.
+I'm a Junior Python Developer and a Computer Science student living in Poznań, Poland. I'm passionate about working with data and interested in Data Science and Web Development. Check ouy my blog at https://anras5.github.io/
 
 # 🔧 Technologies & Tools
 
