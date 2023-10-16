@@ -23,5 +23,6 @@ I'm a Junior Python Developer and a Computer Science student living in Poznań, 
 Check out my blog at https://anras5.github.io/.
 
 # 💬 Get in touch
-Email: filip.marciniak15@gmail.com
+Email: filip.marciniak15@gmail.com \
+LinkedIn: [Filip Marciniak](https://www.linkedin.com/in/filip-marciniak-198957292/) \
 Feel free to reach out if you have any questions or if you'd like to connect!
