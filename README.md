@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Filip 
-I'm a Junior Python Developer and a Computer Science student living in Poznań, Poland. I'm passionate about working with data and interested in Data Science and ML/AI as well as DevOps.
+I'm working as a Python Developer while pursuing a Master's degree in Computer Science. I'm passionate about working with data and interested in Data Science and ML/AI as well as DevOps.
 
 # 🔧 Technologies & Tools
 
