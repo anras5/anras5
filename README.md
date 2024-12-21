@@ -15,11 +15,6 @@ I'm working as a Python Developer while pursuing a Master's degree in Computer S
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## I'm currently learning...
-![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-
 # ✍️ Blog
 Check out my blog at https://anras5.github.io/.
 
