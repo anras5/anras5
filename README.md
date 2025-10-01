@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Filip 
-I'm working as a Python Developer while pursuing a Master's degree in Computer Science. I'm passionate about working with data and interested in Data Science and ML/AI as well as DevOps.
+# 👋 Ciao!
+I'm Data Scientist with a Master’s degree in Computer Science, interested in Python development 🐍, Machine Learning 🤖, and DevOps/MLOps topics 🐳.
 
 ### 🔧 Technologies & Tools
 
