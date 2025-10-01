@@ -1,4 +1,4 @@
-# 👋 Ciao!
+# 👋 Hello!
 I'm Data Scientist with a Master’s degree in Computer Science, interested in Python development 🐍, Machine Learning 🤖, and DevOps/MLOps topics 🐳.
 
 ### 🔧 Technologies & Tools
